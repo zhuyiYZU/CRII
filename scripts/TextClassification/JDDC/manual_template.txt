@@ -1,0 +1,5 @@
+{"placeholder": "text_b"}是用户和系统的历史对话,{"placeholder": "text_a"}是用户说的，请你判断用户说的这句话{"mask"}.
+假设你是一个智能的对话推荐系统，你可以智能地在对话过程中判定是否需要给出推荐还是继续常规对话，以下是你和一个用户的对话历史：{"placeholder":"text_b"} ，{"placeholder": "text_a"}是用户说的最后一句话。你觉得用户是否会对系统提出推荐感兴趣？回答：{"mask"}。
+{"placeholder": "text_b"} 包括所有的对话记录，{"placeholder": "text_a"} 是用户的最新发言。用户是否有意向接收推荐？回答：{"mask"}（感兴趣/不感兴趣）。
+{"placeholder": "text_b"} 是用户和系统的对话记录，{"placeholder": "text_a"} 是用户最近一次的发言。请你判断用户的这句话表达的情绪是{"mask"}。
+根据对话历史 {"placeholder": "text_b"} 和用户的发言 {"placeholder": "text_a"}，请判断用户是否希望系统提供推荐服务。回答：{"mask"}（感兴趣/不感兴趣）。

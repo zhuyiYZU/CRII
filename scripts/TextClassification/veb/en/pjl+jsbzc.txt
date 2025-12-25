@@ -1,0 +1,2 @@
+uninterested,indifferent,uninvolved,interested,bored,ignorant,oblivious,ambivalent,unconvinced,dismissive,irrelevant,disagreeable,dulled,impervious,inapathetic,unperturbed,blase,incurious
+interested,curiosity,concern,benefit,speculation,money,profit,occupy,sake,absorb,financial,pastime,growth,raise,usury,compound interest
